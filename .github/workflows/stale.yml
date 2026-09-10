@@ -19,7 +19,6 @@ jobs:
       - name: Mark stale items
         uses: actions/stale@v9
         with:
-          debug-only: true
           stale-issue-message: >
             Is this issue abandoned? It had no activity for 30 days.
             It has been marked stale and will be closed in 14 days if no further activity occurs.

@@ -1,10 +1,10 @@
 ---
 draft: true
-title: "Session 19: One API Call to Understand Cardano - Recordings"
+title: "Session 20: One API Call to Understand Cardano - Recordings"
 sidebar_label: Recordings
 ---
 
-# Session 19: One API Call to Understand Cardano - Recordings
+# Session 20: One API Call to Understand Cardano - Recordings
 
 - *(Recording link will be added after the session.)*
 
